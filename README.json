@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Public Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SynD: [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-04-07T07:56:48Z",
+            "owner": "klemenjak",
+            "repo": "SynD",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartSim: [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-11-09T14:07:51Z",
+            "owner": "sustainablecomputinglab",
+            "repo": "smartsim",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Synthetic Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NILMTK [pdf]",
+          "description": "[code]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Recently: NILMTK-Contrib [pdf]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-04T07:37:10Z",
+                "owner": "nilmtk",
+                "repo": "nilmtk-contrib",
+                "stars": 141
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:34:10Z",
+            "owner": "nilmtk",
+            "repo": "nilmtk",
+            "stars": 944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NILM-Eval [pdf]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2015-06-26T06:48:35Z",
+            "owner": "beckel",
+            "repo": "nilm-eval",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "Toolkits"
+    },
+    {
+      "description": "To the extent possible under law, Changho Shin has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:13.758Z",
+    "original_repository": "ch-shin/awesome-nilm",
+    "original_repository_sha": "2ac84820272de48a20be58b9e9a8c7fbe04ab064",
+    "enhanced_repository": "enhansome/enhansome-nilm",
+    "enhanced_repository_description": null,
+    "title": "Awesome NILM (Non-Intrusive Load Monitoring) with stars"
+  }
+}
