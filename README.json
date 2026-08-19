@@ -1,51 +1,50 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SynD: [link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218721000,
+                "language": null,
+                "last_commit": "2020-04-07T07:56:48Z",
+                "owner": "klemenjak",
+                "repo": "SynD",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SmartSim: [link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66021444,
+                "language": "Python",
+                "last_commit": "2016-11-09T14:07:51Z",
+                "owner": "sustainablecomputinglab",
+                "repo": "smartsim",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Synthetic Datasets"
+        }
+      ],
       "title": "Public Datasets"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SynD: [link]",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-04-07T07:56:48Z",
-            "owner": "klemenjak",
-            "repo": "SynD",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmartSim: [link]",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-11-09T14:07:51Z",
-            "owner": "sustainablecomputinglab",
-            "repo": "smartsim",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Synthetic Datasets"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -59,6 +58,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 190982189,
                 "language": "Python",
                 "last_commit": "2026-08-04T07:37:10Z",
                 "owner": "nilmtk",
@@ -69,6 +69,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 14891877,
             "language": "Python",
             "last_commit": "2026-07-20T14:34:10Z",
             "owner": "nilmtk",
@@ -83,6 +84,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21475519,
             "language": "Matlab",
             "last_commit": "2015-06-26T06:48:35Z",
             "owner": "beckel",
@@ -92,16 +94,12 @@
         }
       ],
       "title": "Toolkits"
-    },
-    {
-      "description": "To the extent possible under law, Changho Shin has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:59:44.904Z",
+    "last_updated": "2026-08-19T12:47:24.250Z",
     "original_repository": "ch-shin/awesome-nilm",
+    "original_repository_id": 169355470,
     "original_repository_sha": "2ac84820272de48a20be58b9e9a8c7fbe04ab064",
     "enhanced_repository": "enhansome/enhansome-nilm",
     "enhanced_repository_description": null,
