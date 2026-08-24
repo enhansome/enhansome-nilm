@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Tracebase [link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111099448,
+                "language": null,
+                "last_commit": "2020-02-26T18:31:13Z",
+                "owner": "areinhardt",
+                "repo": "tracebase",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Real Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SynD: [link]",
               "description": null,
               "children": [],
@@ -97,7 +119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:54:54.782Z",
+    "last_updated": "2026-08-24T14:32:12.305Z",
     "original_repository": "ch-shin/awesome-nilm",
     "original_repository_id": 169355470,
     "original_repository_sha": "2ac84820272de48a20be58b9e9a8c7fbe04ab064",
