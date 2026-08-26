@@ -85,7 +85,7 @@
                 "last_commit": "2026-08-04T07:37:10Z",
                 "owner": "nilmtk",
                 "repo": "nilmtk-contrib",
-                "stars": 142
+                "stars": 143
               }
             }
           ],
@@ -96,7 +96,7 @@
             "last_commit": "2026-07-20T14:34:10Z",
             "owner": "nilmtk",
             "repo": "nilmtk",
-            "stars": 945
+            "stars": 946
           }
         },
         {
@@ -119,7 +119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:07:28.923Z",
+    "last_updated": "2026-08-26T18:19:00.969Z",
     "original_repository": "ch-shin/awesome-nilm",
     "original_repository_id": 169355470,
     "original_repository_sha": "2ac84820272de48a20be58b9e9a8c7fbe04ab064",
