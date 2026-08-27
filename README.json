@@ -119,9 +119,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:19:00.969Z",
-    "original_repository": "ch-shin/awesome-nilm",
-    "original_repository_id": 169355470,
+    "last_updated": "2026-08-27T11:53:57.267Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 169355470,
+      "language": null,
+      "last_commit": "2024-04-15T15:25:41Z",
+      "owner": "ch-shin",
+      "repo": "awesome-nilm",
+      "stars": 214
+    },
     "original_repository_sha": "2ac84820272de48a20be58b9e9a8c7fbe04ab064",
     "enhanced_repository": "enhansome/enhansome-nilm",
     "enhanced_repository_description": null,
