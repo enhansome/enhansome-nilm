@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The tracebase appliance-level power consumption data set",
+                "homepage": "http://www.tracebase.org",
                 "id": 111099448,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-02-26T18:31:13Z",
+                "open_issues": 0,
                 "owner": "areinhardt",
                 "repo": "tracebase",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "appliance-level",
+                  "consumption",
+                  "energy",
+                  "power",
+                  "tracebase",
+                  "traces"
+                ]
               },
               "first_seen": "2026-08-29T00:38:07.978Z"
             }
@@ -35,12 +47,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Synthetic Energy Consumption Dataset for Non-Intrusive Load Monitoring",
+                "homepage": null,
                 "id": 218721000,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-04-07T07:56:48Z",
+                "open_issues": 0,
                 "owner": "klemenjak",
                 "repo": "SynD",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "datasets",
+                  "datasets-simulation",
+                  "energy-consumption",
+                  "energy-disaggregation",
+                  "nilm",
+                  "nilmtk",
+                  "non-intrusive-load-monitoring"
+                ]
               },
               "first_seen": "2026-08-29T00:38:07.978Z"
             },
@@ -51,12 +76,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 66021444,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-11-09T14:07:51Z",
+                "open_issues": 4,
                 "owner": "sustainablecomputinglab",
                 "repo": "smartsim",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:07.978Z"
             }
@@ -83,24 +113,45 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 190982189,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T07:37:10Z",
+                "open_issues": 48,
                 "owner": "nilmtk",
                 "repo": "nilmtk-contrib",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:38:07.978Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Non-Intrusive Load Monitoring Toolkit (nilmtk)",
+            "homepage": "http://nilmtk.github.io",
             "id": 14891877,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T14:34:10Z",
+            "open_issues": 127,
             "owner": "nilmtk",
             "repo": "nilmtk",
-            "stars": 946
+            "stars": 946,
+            "topics": [
+              "algorithms",
+              "disaggregation",
+              "energy",
+              "energy-disaggregation",
+              "forecasting",
+              "ipython-notebook",
+              "nilm",
+              "nilm-algorithms",
+              "nilmtk",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:38:07.978Z"
         },
@@ -111,12 +162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NILM-EVAL: An evaluation framework for non-intrusive load monitoring algorithms",
+            "homepage": null,
             "id": 21475519,
             "language": "Matlab",
+            "license": "GPL-2.0",
             "last_commit": "2015-06-26T06:48:35Z",
+            "open_issues": 12,
             "owner": "beckel",
             "repo": "nilm-eval",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:07.978Z"
         }
@@ -125,15 +181,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:38:07.978Z",
+    "last_updated": "2026-08-29T04:48:50.564Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated resources of awesome NILM resources",
+      "homepage": null,
       "id": 169355470,
       "language": null,
+      "license": null,
       "last_commit": "2024-04-15T15:25:41Z",
+      "open_issues": 4,
       "owner": "ch-shin",
       "repo": "awesome-nilm",
-      "stars": 214
+      "stars": 214,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "disaggregation",
+        "nilm"
+      ]
     },
     "original_repository_sha": "2ac84820272de48a20be58b9e9a8c7fbe04ab064",
     "enhanced_repository": "enhansome/enhansome-nilm",
