@@ -18,7 +18,8 @@
                 "owner": "areinhardt",
                 "repo": "tracebase",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:38:07.978Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "klemenjak",
                 "repo": "SynD",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:38:07.978Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "sustainablecomputinglab",
                 "repo": "smartsim",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:38:07.978Z"
             }
           ],
           "description": null,
@@ -86,7 +89,8 @@
                 "owner": "nilmtk",
                 "repo": "nilmtk-contrib",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-29T00:38:07.978Z"
             }
           ],
           "repo_info": {
@@ -97,7 +101,8 @@
             "owner": "nilmtk",
             "repo": "nilmtk",
             "stars": 946
-          }
+          },
+          "first_seen": "2026-08-29T00:38:07.978Z"
         },
         {
           "node_type": "item",
@@ -112,14 +117,15 @@
             "owner": "beckel",
             "repo": "nilm-eval",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T00:38:07.978Z"
         }
       ],
       "title": "Toolkits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:05:01.856Z",
+    "last_updated": "2026-08-29T00:38:07.978Z",
     "original_repository_info": {
       "archived": false,
       "id": 169355470,
