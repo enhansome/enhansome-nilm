@@ -136,7 +136,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-20T14:34:10Z",
-            "open_issues": 127,
+            "open_issues": 129,
             "owner": "nilmtk",
             "repo": "nilmtk",
             "stars": 948,
@@ -181,7 +181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:06:33.538Z",
+    "last_updated": "2026-09-08T19:32:12.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated resources of awesome NILM resources",
