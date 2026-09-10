@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/28736511/51742581-80aa0c80-20dd-11e9-8ed9-b591a79442a3.png)
 
-A curated list of NILM (also known as Energy Disaggregation or Load Disaggregation) resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,880 | 🐛 158 | 📅 2026-09-09, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,912 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,184 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning/) ⭐ 552 | 🐛 2 | 📅 2020-12-21 and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15.
+A curated list of NILM (also known as Energy Disaggregation or Load Disaggregation) resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,185 | 🐛 47 | 📅 2023-08-15, [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,896 | 🐛 159 | 📅 2026-09-10, [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,912 | 🐛 5 | 📅 2020-11-26, [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,184 | 🐛 37 | 🌐 TeX | 📅 2024-01-18, [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning/) ⭐ 552 | 🐛 2 | 📅 2020-12-21 and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) ⭐ 1,191 | 🐛 2 | 📅 2020-09-15.
 
-Curation of papers is generally based on the recent publication in top AI conferences (NeurIPS, ICML, ICLR, AAAI, KDD, etc.) or the impactfulness on NILM domain. But the criteria is not strict. Please feel free to [pull requests](https://github.com/ch-shin/awesome-nilm/pulls) ⭐ 215 | 🐛 4 | 📅 2024-04-15 or [open an issue](https://github.com/ch-shin/awesome-nilm/issues) ⭐ 215 | 🐛 4 | 📅 2024-04-15 if you know awesome NILM resources.
+Curation of papers is generally based on the recent publication in top AI conferences (NeurIPS, ICML, ICLR, AAAI, KDD, etc.) or the impactfulness on NILM domain. But the criteria is not strict. Please feel free to [pull requests](https://github.com/ch-shin/awesome-nilm/pulls) ⭐ 217 | 🐛 4 | 📅 2024-04-15 or [open an issue](https://github.com/ch-shin/awesome-nilm/issues) ⭐ 217 | 🐛 4 | 📅 2024-04-15 if you know awesome NILM resources.
 
 ## Papers
 
@@ -62,7 +62,7 @@ Curation of papers is generally based on the recent publication in top AI confer
 
 * **Neural nilm: Deep neural networks applied to energy disaggregation** [\[pdf\]](http://jack-kelly.com/files/writing/neural_nilm.pdf)
   * Jack Kelly, William Knottenbelt. *BuildSys'15*
-* **Sequence-to-point learning with neural networks for non-intrusive load monitoring** [\[pdf\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16623/15980) [\[code\]](https://github.com/MingjunZhong/seq2point-nilm) ⭐ 118 | 🐛 14 | 🌐 Python | 📅 2020-06-28
+* **Sequence-to-point learning with neural networks for non-intrusive load monitoring** [\[pdf\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16623/15980) [\[code\]](https://github.com/MingjunZhong/seq2point-nilm) ⭐ 119 | 🐛 14 | 🌐 Python | 📅 2020-06-28
   * Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard, Charles Sutton. *AAAI'18*
 * **Deep Latent Generative Models For Energy Disaggregation** [\[pdf\]](https://www.aaai.org/Papers/AAAI/2019/AAAI-BejaranoG.1181.pdf)
   * Gissella Bejarano, David DeFazio, Arti Ramesh. *AAAI'19*
@@ -135,9 +135,9 @@ Curation of papers is generally based on the recent publication in top AI confer
 
 ## Toolkits
 
-* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 949 | 🐛 129 | 🌐 Python | 📅 2026-07-20
-  * Recently: NILMTK-Contrib [\[pdf\]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [\[code\]](https://github.com/nilmtk/nilmtk-contrib) ⭐ 143 | 🐛 48 | 🌐 Python | 📅 2026-08-04
-* NILM-Eval [\[pdf\]]() [\[code\]](https://github.com/beckel/nilm-eval) ⭐ 119 | 🐛 12 | 🌐 Matlab | 📅 2015-06-26
+* NILMTK [\[pdf\]](https://arxiv.org/pdf/1404.3878v1.pdf) [\[code\]](https://github.com/nilmtk/nilmtk) ⭐ 950 | 🐛 129 | 🌐 Python | 📅 2026-07-20
+  * Recently: NILMTK-Contrib [\[pdf\]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [\[code\]](https://github.com/nilmtk/nilmtk-contrib) ⭐ 144 | 🐛 48 | 🌐 Python | 📅 2026-08-04
+* NILM-Eval [\[pdf\]]() [\[code\]](https://github.com/beckel/nilm-eval) ⭐ 120 | 🐛 12 | 🌐 Matlab | 📅 2015-06-26
 
 ## Workshops
 
@@ -155,4 +155,4 @@ To the extent possible under law, [Changho Shin](https://github.com/ch-shin) has
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
