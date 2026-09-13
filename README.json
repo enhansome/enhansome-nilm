@@ -139,7 +139,7 @@
             "open_issues": 129,
             "owner": "nilmtk",
             "repo": "nilmtk",
-            "stars": 951,
+            "stars": 952,
             "topics": [
               "algorithms",
               "disaggregation",
@@ -181,7 +181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:39:10.713Z",
+    "last_updated": "2026-09-13T18:54:47.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated resources of awesome NILM resources",
