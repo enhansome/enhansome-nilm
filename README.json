@@ -139,7 +139,7 @@
             "open_issues": 129,
             "owner": "nilmtk",
             "repo": "nilmtk",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "algorithms",
               "disaggregation",
@@ -181,7 +181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:26:50.030Z",
+    "last_updated": "2026-09-15T19:47:43.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated resources of awesome NILM resources",
@@ -193,7 +193,7 @@
       "open_issues": 4,
       "owner": "ch-shin",
       "repo": "awesome-nilm",
-      "stars": 217,
+      "stars": 218,
       "topics": [
         "awesome",
         "awesome-list",
