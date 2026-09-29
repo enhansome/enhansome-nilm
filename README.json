@@ -122,7 +122,7 @@
                 "open_issues": 48,
                 "owner": "nilmtk",
                 "repo": "nilmtk-contrib",
-                "stars": 144,
+                "stars": 145,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:07.978Z"
@@ -181,7 +181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:14:37.669Z",
+    "last_updated": "2026-09-29T20:59:20.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated resources of awesome NILM resources",
