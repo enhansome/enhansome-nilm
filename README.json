@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Tracebase [link]",
-              "description": null,
+              "description": "areinhardt/tracebase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "SynD: [link]",
-              "description": null,
+              "description": "klemenjak/SynD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -72,7 +72,7 @@
             {
               "node_type": "item",
               "title": "SmartSim: [link]",
-              "description": null,
+              "description": "sustainablecomputinglab/smartsim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,12 +104,12 @@
         {
           "node_type": "item",
           "title": "NILMTK [pdf]",
-          "description": "[code]",
+          "description": "nilmtk/nilmtk",
           "children": [
             {
               "node_type": "item",
               "title": "Recently: NILMTK-Contrib [pdf]",
-              "description": "[code]",
+              "description": "nilmtk/nilmtk-contrib",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -158,7 +158,7 @@
         {
           "node_type": "item",
           "title": "NILM-Eval [pdf]",
-          "description": "[code]",
+          "description": "beckel/nilm-eval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -181,7 +181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:54:30.984Z",
+    "last_updated": "2026-10-03T04:57:10.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated resources of awesome NILM resources",
