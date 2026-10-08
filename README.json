@@ -181,7 +181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:30:24.778Z",
+    "last_updated": "2026-10-08T21:27:22.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated resources of awesome NILM resources",
@@ -193,7 +193,7 @@
       "open_issues": 4,
       "owner": "ch-shin",
       "repo": "awesome-nilm",
-      "stars": 219,
+      "stars": 220,
       "topics": [
         "awesome",
         "awesome-list",
