@@ -136,10 +136,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-20T14:34:10Z",
-            "open_issues": 129,
+            "open_issues": 130,
             "owner": "nilmtk",
             "repo": "nilmtk",
-            "stars": 965,
+            "stars": 966,
             "topics": [
               "algorithms",
               "disaggregation",
@@ -181,7 +181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:24:49.707Z",
+    "last_updated": "2026-11-17T23:37:12.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated resources of awesome NILM resources",
@@ -193,7 +193,7 @@
       "open_issues": 4,
       "owner": "ch-shin",
       "repo": "awesome-nilm",
-      "stars": 222,
+      "stars": 223,
       "topics": [
         "awesome",
         "awesome-list",
